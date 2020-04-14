@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Log In &middot; LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="/items/browse/9743e564b612d7d738ad37ee7903810c.jpg/?output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="/items/browse/9743e564b612d7d738ad37ee7903810c.jpg/?output=atom" />
+    <!-- Plugin Stuff -->
+
+    
+
+    <!-- Stylesheets -->
+    <link href="/themes/foundation/css/app.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/application/views/scripts/css/iconfonts.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="//fonts.googleapis.com/css?family=Alegreya|Playfair+Display+SC:900|Playfair+Display:900i&amp;display=swap" media="all" rel="stylesheet" type="text/css" >
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=2.7\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=2.7\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="/application/views/scripts/javascripts/login.js?v=2.7"></script>
+<script type="text/javascript" src="/application/views/scripts/javascripts/globals.js?v=2.7"></script>
+<script type="text/javascript" src="/themes/foundation/javascripts/app.js?v=2.7"></script>
+<script type="text/javascript" src="//kit.fontawesome.com/22a8f33cc1.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/js/foundation.min.js"></script></head>
+<body class="login">
+    <a href="#content" id="skipnav">Skip to main content</a>
+    
+    <header role="banner">
+                <div id="site-title" class="top-bar-left"><a href="https://revolution.chnm.org" ><img src="https://revolution.chnm.org/files/theme_uploads/67d23a0e4a55d8dd335ca21787ed29bf.png" alt="LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION" /></a>
+</div>
+        <nav id="primary-nav" role="navigation" class="top-bar-right">
+              <div class="title-bar" data-responsive-toggle="top-nav" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle aria-label="Menu"><i class="fas fa-bars"></i></button>
+  <button type="button" class="search-toggle button" aria-label="Search"><i class="fas fa-search"></i></button>
+</div>
+<ul id="top-nav" class="horizontal menu" data-responsive-menu="accordion medium-dropdown">
+                                                                <li>
+                <a 
+                    class="nav-header" 
+                    href="/exhibits/show/liberty--equality--fraternity"
+                                        >
+                                                <span class=""></span>
+                                        Explore                </a>
+            </li>
+                                                        <li>
+                <a 
+                    class="nav-header" 
+                    href="/items/browse"
+                                        >
+                                                <span class=""></span>
+                                        Browse                </a>
+            </li>
+                                                                        <li>
+                <a 
+                    class="nav-header" 
+                    href="/neatline-time/timelines/show/1"
+                                        >
+                                                <span class=""></span>
+                                        Timeline                </a>
+            </li>
+                                                                        <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        About                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown menu">
+                                                                                                            <li>
+                                <a 
+                                    href="/project-history"
+                                     >
+                                                                                <span class=""></span>
+                                                                        Project History                                </a>
+                            </li>
+                                                                                                            <li>
+                                <a 
+                                    href="/faq"
+                                     >
+                                                                                <span class=""></span>
+                                                                        FAQ                                </a>
+                            </li>
+                                            </ul>
+                </li>   
+                                                                                    <li>
+                <a 
+                    class="nav-header" 
+                    href="https://ageofrevolutions.com/"
+                                        >
+                                                <span class=""></span>
+                                        Age of Revolutions                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <div id="search-container" role="search" class="open">
+                        <form id="search-form" name="search-form" class="grid-x" action="/search" method="get">    <input type="text" name="query" id="query" value="" title="Search" class="cell large-11">    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend class="show-for-sr">Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend class="show-for-sr">Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label>                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label>                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label>                    </fieldset>
+                <p><a href="/items/search">Advanced Search (Items only)</a></p>
+    </div>
+    <button name="submit_search" id="submit_search" type="submit" value="Search" class="cell large-1">Search</button></form>
+                    </div>
+    </header>
+
+    <div id="content" role="main" tabindex="-1">
+
+        <h1>Log In</h1>
+
+<p id="login-links">
+<span id="backtosite"><a href="https://revolution.chnm.org" >Go to Home Page</a>
+</span>  |  <span id="forgotpassword"><a href="/users/forgot-password">Lost your password?</a></span>
+</p>
+
+    
+<form id="login-form" enctype="application/x-www-form-urlencoded" method="post" action="/users/login">
+<fieldset id="fieldset-login">
+<div class="field"><div id="username-label" class="two columns alpha"><label for="username" class="required">Username</label></div>
+<div class="inputs six columns omega">
+<input type="text" name="username" id="username" value=""></div></div>
+<div class="field"><div id="password-label" class="two columns alpha"><label for="password" class="required">Password</label></div>
+<div class="inputs six columns omega">
+<input type="password" name="password" id="password" value=""></div></div>
+<div class="field"><div id="remember-label" class="two columns alpha"><label for="remember" class="optional">Remember Me?</label></div>
+<div class="inputs six columns omega">
+<input type="hidden" name="remember" value="0"><input type="checkbox" name="remember" id="remember" value="1" class="checkbox"></div></div></fieldset>
+<div>
+<input type="submit" name="submit" id="submit" value="Log In"></div></form>
+    </div><!-- end content -->
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                        This site is a collaboration of the <a href="http://chnm.gmu.edu/">Roy Rosenzweig Center for History and New Media</a> (George Mason University) and <a href="http://www.ashp.cuny.edu/"> American Social History Project</a> (City University of New York), supported by grants from the Florence Gould Foundation and the <a href="http://www.neh.gov/">National Endowment for the Humanities.</a>                        
+                    </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.skipNav();
+        jQuery(document).foundation();
+    });
+    </script>
+
+</body>
+</html>

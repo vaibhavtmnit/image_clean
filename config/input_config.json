@@ -1,6 +1,6 @@
 {
-  "root": "../../../",
-  "watermark_embedd": {
+  "root": "../",
+  "watermark_input": {
     "logo_input": "Image dataset/logos",
     "font_input": "Image dataset/fonts",
     "output": ""
